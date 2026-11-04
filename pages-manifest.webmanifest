@@ -1,0 +1,12 @@
+{
+  "id": "./",
+  "name": "AI 房仓",
+  "short_name": "AI 房仓",
+  "lang": "zh-CN",
+  "start_url": "./#houses",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F5F7FA",
+  "theme_color": "#0086F6",
+  "icons": [{ "src": "./app-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
